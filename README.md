@@ -1,0 +1,2 @@
+# didziuju duomenu paskaitos
+ 
