@@ -1,0 +1,273 @@
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z1}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
+{{sustojimo savaites diena=2}{Sustojimo klientu skaicius=1}{geografine zona=Z2}{siuntu skaicius=1}}
