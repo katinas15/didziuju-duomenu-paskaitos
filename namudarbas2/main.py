@@ -10,7 +10,7 @@ def FM(line):
   susstring = line.split('}}{{')
   return susstring
 A=lines.flatMap(FM)
-# print(A.take(3))
+print(A.take(3))
 
 def MapF(stopas):
   parstrings = stopas.split('}{')

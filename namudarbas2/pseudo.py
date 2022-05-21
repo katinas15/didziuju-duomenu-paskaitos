@@ -3,6 +3,7 @@ def FM(line):
   substring = line.split()
   return substring
 A=lines.flatMap(FM)
+print(A.collect)
 
 
 def MapF(stopas):
@@ -46,3 +47,6 @@ D = C.reduceByKey(red)
 E = D.sortByKey()
 # ats = D.collect()
 E.saveAsTextFile('hdfs:///user/maria_dev/nd2ats')
+
+
+{{tipas=B2C}{Firma=TRA}...}}{{tipas=ABC...
